@@ -1,0 +1,17 @@
+.Button {
+    padding: 10px;
+    border:none;
+    width:185px;
+    margin: 5px;
+    color: white;
+
+    &.default{
+        background-color:black;
+    }
+
+    &.danger {
+        background-color:red;
+    }
+}
+
+
